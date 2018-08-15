@@ -1,2 +1,4 @@
 # StraDA
-Stratégie de Droits d'Accès
+Concept de Stratégie de Droits d'Accès
+
+Conceptualisation sous Archimate
